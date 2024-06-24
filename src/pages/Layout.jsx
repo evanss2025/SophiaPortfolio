@@ -35,6 +35,9 @@ export default function Layout() {
         </div>
         
       </header>
+      <div className="w-full min-h-screen flex flex-col px-20 py-8">
+        <Outlet />
+      </div>
     </div>
   );
 }
