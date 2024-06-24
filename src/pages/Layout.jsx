@@ -29,7 +29,7 @@ export default function Layout() {
               <a id="projects" className="text-black font-bold bg-stone-50 rounded-full shadow-lg shadow-blue-500 p-2 px-6 m-3 transition duration-200 hover:shadow-blue-600" onClick={() => {changeProjects();}}>Projects</a>
             </li>
             <li>
-              <a id="contact" className="text-black font-bold bg-stone-50 rounded-full shadow-lg shadow-blue-500 p-2 px-6 m-3 transition duration-200 hover:shadow-blue-600" onClick={() => {changeContact();}}>Contact</a>
+              <a id="contact" className="text-black font-bold bg-stone-50 rounded-full shadow-lg shadow-blue-500 p-2 px-6 m-3 transition duration-200 hover:shadow-blue-600" onClick={() => {changeContact();}}>Connect</a>
               </li>
           </ul>
         </div>
