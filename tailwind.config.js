@@ -12,6 +12,7 @@ export default {
       blue: colors.blue,
       cyan: colors.cyan,
       stone: colors.stone,
+      black: colors.black,
     },
     extend: {
     

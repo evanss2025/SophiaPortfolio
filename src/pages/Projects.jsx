@@ -1,16 +1,16 @@
 import "../output.css";
 import { useState } from "react";
 
-export default function Home() {
+export default function Projects() {
 
   return (
     <div className="w-full h-full">
       <div id="main">
         <div className="bg-stone-50 text-black flex flex-col items-center justify-center p-8">
-          <h1>Home</h1>
+          <h1>Projects</h1>
         </div>
       </div>
-      
+
     </div>
   );
 }
