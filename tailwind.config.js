@@ -15,7 +15,9 @@ export default {
       black: colors.black,
     },
     extend: {
-    
+      backgroundImage: {
+        'background': "url(public/background.jpg)",
+      }
         
     },
   },
